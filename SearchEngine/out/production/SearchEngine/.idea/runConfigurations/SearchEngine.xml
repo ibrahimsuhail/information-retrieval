@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SearchEngine" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="SearchEngine" />
+    <module name="SearchEngine" />
+    <option name="PROGRAM_PARAMETERS" value="-CorpusDir $PROJECT_DIR$/../corpus -InvertedIndex InvertedIndex.txt -StopList stopwords.txt -Queries src/queryfile.txt -Results resultsfile.txt -Stem on -Distance 5 -Output cmd " />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,3536 @@
+Search without stemming: 
+The word "finds "appears in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+The word "finds "appears in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+The word "finds "appears in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+The word "finds "appears in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+The word "finds "appears in /Users/ibrahimsuhail/Desktop/corpus/Can You Name The Seven Wonders Of The World_ Most People Can’t Name All Seven.htm
+The word "finds"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+ at  indeces 7386
+
+ at  indeces 7420
+
+ at  indeces 7431
+
+ at  indeces 7500
+
+ at  indeces 7510
+Snippet of first occurence:  glass currency australian study finds tabindex  div div class 
+The word "finds"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+ at  indeces 50842
+Snippet of first occurence: div class title florida mom finds meal plan inspiration after tragedy 
+The word "finds"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+ at  indeces 5854
+Snippet of first occurence: amp page wordfinds cfm word finds     href 
+The word "finds"appears  30 times in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+ at  indeces 12174
+
+ at  indeces 12190
+
+ at  indeces 12196
+
+ at  indeces 12217
+
+ at  indeces 12222
+
+ at  indeces 12232
+
+ at  indeces 12240
+
+ at  indeces 12279
+
+ at  indeces 12286
+
+ at  indeces 12300
+
+ at  indeces 12307
+
+ at  indeces 12321
+
+ at  indeces 12331
+
+ at  indeces 12342
+
+ at  indeces 12354
+
+ at  indeces 12370
+
+ at  indeces 12373
+
+ at  indeces 12379
+
+ at  indeces 12382
+
+ at  indeces 12393
+
+ at  indeces 12402
+
+ at  indeces 12411
+
+ at  indeces 12418
+
+ at  indeces 12427
+
+ at  indeces 12436
+
+ at  indeces 12443
+
+ at  indeces 14715
+
+ at  indeces 25342
+
+ at  indeces 25364
+
+ at  indeces 25375
+Snippet of first occurence: position relative width  article finds embed background webkit border radius 
+The word "finds"appears  30 times in /Users/ibrahimsuhail/Desktop/corpus/Can You Name The Seven Wonders Of The World_ Most People Can’t Name All Seven.htm
+ at  indeces 12747
+
+ at  indeces 12763
+
+ at  indeces 12769
+
+ at  indeces 12790
+
+ at  indeces 12795
+
+ at  indeces 12805
+
+ at  indeces 12813
+
+ at  indeces 12852
+
+ at  indeces 12859
+
+ at  indeces 12873
+
+ at  indeces 12880
+
+ at  indeces 12894
+
+ at  indeces 12904
+
+ at  indeces 12915
+
+ at  indeces 12927
+
+ at  indeces 12943
+
+ at  indeces 12946
+
+ at  indeces 12952
+
+ at  indeces 12955
+
+ at  indeces 12966
+
+ at  indeces 12975
+
+ at  indeces 12984
+
+ at  indeces 12991
+
+ at  indeces 13000
+
+ at  indeces 13009
+
+ at  indeces 13016
+
+ at  indeces 15288
+
+ at  indeces 25915
+
+ at  indeces 25937
+
+ at  indeces 25948
+Snippet of first occurence: position relative width  article finds embed background webkit border radius 
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/John Hanson, so-called first president, dies - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/What are the seven wonders of the world_ - Telegraph.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How McDonald's Beat Its Early Competition and Became an Icon of Fast Food - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Scientific American.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Video_ The Fluid Fingers of Formation.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Curious Kids_ Why is the sky blue and where does it start_.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/U.S. state - Wikipedia.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Ounces To Cups And Other Cooking Conversions _ Allrecipes.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_ - Travel Independent . Info.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government _ Harry S. Truman.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The tragic real-life story of the McDonald brothers.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Wonders of the World - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/7 Wonders of the World _ Seven Wonders.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Our History_ Ray Kroc & The McDonald's Brothers _ McDonald's.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology & Rocks _ Visitor Center.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World, Taj Mahal, Machu Picchu, and more.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the Ancient World.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Cup (unit) - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Measurements_ How many ounces are in a cup_ - Quora.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How Was the Grand Canyon Formed_ - Lesson for Kids - Video & Lesson Transcript _ Study.com.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Richard and Maurice McDonald - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Rainbows.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The Seven Wonders - Ancient History Encyclopedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ - My Dainty Soul Curry.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/What McDonald's looked like when it first opened - Business Insider.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/McDonald's Ray Kroc cheated the brothers who REALLY started empire out of $300m _ Daily Mail Online.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/What are the Seven Wonders of the World, from Ancient to Modern.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The Story of How McDonald’s First Got Its Start _ History _ Smithsonian Magazine.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/List of presidents of the United States - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Teachinghistory.org.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How many countries in the world_ 193_ 197_ 215_.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The First 10 Presidents of the United States and What They Accomplished - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/11 Surprising Facts About McDonald’s History and Present _ PEOPLE.com.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/PolitiFact _ No, the first American president wasn’t a black man named John Hanson.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Science With Samantha_ Why Is the Sky Blue_ – NBC 5 Dallas-Fort Worth.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/George Washington - Facts, Presidency & Quotes - Biography.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/List of states and territories of the United States - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/The Evolution of McDonald’s In Photos - The History of McDonald's.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/All You Need to Know About The Seven Wonders of The World.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Who is the founder of McDonald’s_ - Quora.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Blue or black sky_ _ Causes of Color.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government - HISTORY.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/THEN AND NOW_ McDonald's through the years - Business Insider.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc - McDonald's, Movie & Family - Biography.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/8 Facts About the Grand Canyon You Never Knew _ National Park Foundation.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/First President · George Washington's Mount Vernon.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Journey to the Seven Wonders _ Travel _ Smithsonian Magazine.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/List of All Countries in the World.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/ROYGBIV - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In a Cup — Facts, Figures And Converter.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/US Fluid Ounces to US Cups conversion.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Live Science.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/1955 First McDonalds Opened.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Ever wondered why the sky is blue_ Or why sunsets are red_ - Kids Environment Kids Health - National Institute of Environmental Health Sciences.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How many colors are in a rainbow, and what does each mean_ - Quora.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/U.S. States_ 50 States and State Capitals _ HISTORY.com - HISTORY.html
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+The word "found "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/John Hanson, so-called first president, dies - HISTORY.htm
+ at  indeces 21937
+
+ at  indeces 40747
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What are the seven wonders of the world_ - Telegraph.htm
+ at  indeces 50745
+
+ at  indeces 50768
+Snippet of first occurence: console log  title frame found trying  send message  
+The word "found"appears  17 times in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+ at  indeces 5501
+
+ at  indeces 5809
+
+ at  indeces 5901
+
+ at  indeces 10509
+
+ at  indeces 10730
+
+ at  indeces 10791
+
+ at  indeces 11177
+
+ at  indeces 11398
+
+ at  indeces 11473
+
+ at  indeces 12403
+
+ at  indeces 12624
+
+ at  indeces 12685
+
+ at  indeces 13316
+
+ at  indeces 47118
+
+ at  indeces 47142
+
+ at  indeces 55851
+
+ at  indeces 59580
+Snippet of first occurence: para examples  posts  found nbsp  href https www 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+ at  indeces 9079
+
+ at  indeces 23805
+
+ at  indeces 24669
+
+ at  indeces 28314
+
+ at  indeces 38791
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+ at  indeces 7483
+
+ at  indeces 7498
+
+ at  indeces 7938
+
+ at  indeces 8204
+
+ at  indeces 8247
+Snippet of first occurence:   older canyon basalts found  north rim western end 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How McDonald's Beat Its Early Competition and Became an Icon of Fast Food - HISTORY.htm
+ at  indeces 9511
+
+ at  indeces 30950
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Scientific American.htm
+ at  indeces 7343
+Snippet of first occurence:  scientific publications   found   href http www 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - HISTORY.htm
+ at  indeces 8768
+
+ at  indeces 21697
+
+ at  indeces 33183
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+ at  indeces 8383
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+ at  indeces 56259
+
+ at  indeces 70595
+
+ at  indeces 81699
+
+ at  indeces 83645
+Snippet of first occurence:  oldest human drawings recorded found  blombos cave miles east 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Video_ The Fluid Fingers of Formation.htm
+ at  indeces 5622
+
+ at  indeces 6482
+Snippet of first occurence: hard  understand early scientists found  difficult  determine responsible 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Curious Kids_ Why is the sky blue and where does it start_.htm
+ at  indeces 12665
+Snippet of first occurence: logger warn  plural rule found    object assign 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state - Wikipedia.html
+ at  indeces 16928
+
+ at  indeces 38199
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Ounces To Cups And Other Cooking Conversions _ Allrecipes.htm
+ at  indeces 84414
+
+ at  indeces 84514
+
+ at  indeces 91047
+
+ at  indeces 94481
+
+ at  indeces 94612
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_ - Travel Independent . Info.html
+ at  indeces 6391
+Snippet of first occurence: spot  mistake  error found incorrect can contribute information  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government _ Harry S. Truman.html
+ at  indeces 440
+Snippet of first occurence: code  licensed mit license found   license file  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+ at  indeces 16986
+Snippet of first occurence: naming colors  order  found    lot harder 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The tragic real-life story of the McDonald brothers.htm
+ at  indeces 5584
+
+ at  indeces 5785
+Snippet of first occurence: mcdonalds pdf target estimate  found mcdonald   billion  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Wonders of the World - Wikipedia.htm
+ at  indeces 16899
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+ at  indeces 74617
+
+ at  indeces 74717
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+ at  indeces 8993
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/7 Wonders of the World _ Seven Wonders.htm
+ at  indeces 3429
+
+ at  indeces 3433
+
+ at  indeces 8625
+Snippet of first occurence: answers regions  countries orangutans found  countries orangutans found  
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 4722
+
+ at  indeces 10297
+Snippet of first occurence:  perception  color surprisingly found  association  language completely 
+The word "found"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+ at  indeces 36293
+
+ at  indeces 86464
+
+ at  indeces 89707
+
+ at  indeces 90833
+
+ at  indeces 90980
+
+ at  indeces 91231
+
+ at  indeces 95712
+
+ at  indeces 96994
+Snippet of first occurence: document case  return file found case  return firefox silently 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Our History_ Ray Kroc & The McDonald's Brothers _ McDonald's.htm
+ at  indeces 13608
+
+ at  indeces 14389
+
+ at  indeces 21500
+Snippet of first occurence: california purchased multimixers there  found  small successful restaurant run 
+The word "found"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology & Rocks _ Visitor Center.htm
+ at  indeces 2049
+
+ at  indeces 2053
+
+ at  indeces 2063
+
+ at  indeces 31350
+
+ at  indeces 31366
+
+ at  indeces 31421
+Snippet of first occurence: cdata var noresults  results found oneresult  result found use 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World, Taj Mahal, Machu Picchu, and more.htm
+ at  indeces 14573
+
+ at  indeces 17054
+Snippet of first occurence: iconic christ statue   found   equally iconic city 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+ at  indeces 22020
+Snippet of first occurence: washington added architectural feature generally found  public buildings  mansion 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the Ancient World.htm
+ at  indeces 27720
+
+ at  indeces 34050
+Snippet of first occurence: loading presentation state  deeplink found presentation mode component remove replace 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+ at  indeces 1398
+
+ at  indeces 12925
+Snippet of first occurence:   what thought knew found wrong     
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Cup (unit) - Wikipedia.htm
+ at  indeces 16797
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Measurements_ How many ounces are in a cup_ - Quora.htm
+ at  indeces 39583
+Snippet of first occurence: depending  dna this company found   people  genes 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+ at  indeces 288027
+Snippet of first occurence: inadvertently left  booty leprechauns found now leprechauns knew vikings treasures 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How Was the Grand Canyon Formed_ - Lesson for Kids - Video & Lesson Transcript _ Study.com.html
+ at  indeces 154
+
+ at  indeces 406
+
+ at  indeces 14533
+
+ at  indeces 31241
+Snippet of first occurence: northeastern arizona scientists learning area found    meta property 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Richard and Maurice McDonald - Wikipedia.htm
+ at  indeces 16898
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Rainbows.htm
+ at  indeces 693
+Snippet of first occurence:  colors  order  found   rainbow   
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Seven Wonders - Ancient History Encyclopedia.htm
+ at  indeces 7467
+Snippet of first occurence:    visited building found   surpass description  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ - My Dainty Soul Curry.htm
+ at  indeces 26377
+Snippet of first occurence: commenttext   glad  found website  simplified  thank 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/What McDonald's looked like when it first opened - Business Insider.htm
+ at  indeces 2591
+
+ at  indeces 122248
+
+ at  indeces 127726
+Snippet of first occurence: lives  brooklyn   found    href https 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald's Ray Kroc cheated the brothers who REALLY started empire out of $300m _ Daily Mail Online.htm
+ at  indeces 125178
+
+ at  indeces 129768
+Snippet of first occurence:  kobe  personal items found   abandoned unit sold 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Seven Wonders of the World, from Ancient to Modern.htm
+ at  indeces 14039
+Snippet of first occurence: ancient coins  french archaeologists found  lighthouse  remains submerged 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 63593
+Snippet of first occurence: valid searchwp live search configuration found when autocomplete results  arrows 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/The Story of How McDonald’s First Got Its Start _ History _ Smithsonian Magazine.htm
+ at  indeces 43863
+
+ at  indeces 44838
+
+ at  indeces 56534
+
+ at  indeces 56761
+Snippet of first occurence:  form peppermint patties  found inspiration dick enlisted  mechanically 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of presidents of the United States - Wikipedia.htm
+ at  indeces 16912
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+ at  indeces 6468
+Snippet of first occurence:  hanson  enjoy job found work tedious wished  resign 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Teachinghistory.org.html
+ at  indeces 2148
+
+ at  indeces 2164
+
+ at  indeces 2178
+
+ at  indeces 2661
+Snippet of first occurence:     research found john hanson president  constitutional 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries in the world_ 193_ 197_ 215_.htm
+ at  indeces 9487
+
+ at  indeces 22288
+
+ at  indeces 37192
+
+ at  indeces 39905
+Snippet of first occurence: answer  countries  world found united nations list recognised countries 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The First 10 Presidents of the United States and What They Accomplished - HISTORY.htm
+ at  indeces 9266
+
+ at  indeces 39993
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/11 Surprising Facts About McDonald’s History and Present _ PEOPLE.com.html
+ at  indeces 73691
+
+ at  indeces 73791
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/PolitiFact _ No, the first American president wasn’t a black man named John Hanson.htm
+ at  indeces 17130
+Snippet of first occurence: man murder  appellate court found kamala harris police part  
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Science With Samantha_ Why Is the Sky Blue_ – NBC 5 Dallas-Fort Worth.htm
+ at  indeces 201900
+
+ at  indeces 201922
+Snippet of first occurence: title year after amber guyger found guilty  botham jean murder 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+ at  indeces 7978
+
+ at  indeces 12100
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington - Facts, Presidency & Quotes - Biography.htm
+ at  indeces 8904
+
+ at  indeces 34425
+
+ at  indeces 48580
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+ at  indeces 1073
+
+ at  indeces 1867
+
+ at  indeces 1942
+
+ at  indeces 2951
+
+ at  indeces 3157
+Snippet of first occurence:  cut harder granites schists found  bottom  canyon  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of states and territories of the United States - Wikipedia.htm
+ at  indeces 16935
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Evolution of McDonald’s In Photos - The History of McDonald's.htm
+ at  indeces 48266
+Snippet of first occurence: slide dek    found  birthday gift this year 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/All You Need to Know About The Seven Wonders of The World.htm
+ at  indeces 100231
+
+ at  indeces 100247
+
+ at  indeces 111387
+
+ at  indeces 111403
+Snippet of first occurence: states empires several  walls found  built  early  
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+ at  indeces 6343
+
+ at  indeces 6398
+
+ at  indeces 6403
+
+ at  indeces 6506
+
+ at  indeces 6511
+Snippet of first occurence:  results snize  products found text background color div snize 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Who is the founder of McDonald’s_ - Quora.htm
+ at  indeces 51579
+Snippet of first occurence: normal background look   found website but  thing called 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+ at  indeces 7742
+Snippet of first occurence: here find stories everyday items found  nbsp restaurants did  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Blue or black sky_ _ Causes of Color.htm
+ at  indeces 1476
+Snippet of first occurence: involve scattering   blues found  mandrills tree frogs caterpillars 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government - HISTORY.htm
+ at  indeces 8866
+
+ at  indeces 35493
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/THEN AND NOW_ McDonald's through the years - Business Insider.htm
+ at  indeces 2571
+
+ at  indeces 32192
+
+ at  indeces 42646
+Snippet of first occurence: lives  brooklyn   found    href https 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc - McDonald's, Movie & Family - Biography.htm
+ at  indeces 8967
+
+ at  indeces 24068
+
+ at  indeces 33342
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 157343
+
+ at  indeces 171562
+Snippet of first occurence:  amphibian  fish species found  park   href 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/8 Facts About the Grand Canyon You Never Knew _ National Park Foundation.htm
+ at  indeces 27062
+
+ at  indeces 38413
+
+ at  indeces 38478
+
+ at  indeces 38674
+
+ at  indeces 42658
+Snippet of first occurence: foundation adheres  privacy policy found    href http 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/First President · George Washington's Mount Vernon.htm
+ at  indeces 17482
+Snippet of first occurence: washington added architectural feature generally found  public buildings  mansion 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Journey to the Seven Wonders _ Travel _ Smithsonian Magazine.htm
+ at  indeces 31845
+
+ at  indeces 33203
+
+ at  indeces 33364
+
+ at  indeces 43789
+
+ at  indeces 44016
+Snippet of first occurence: image  pharos  alexandria found  archaeologists   afghanistan 
+The word "found"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+ at  indeces 9362
+
+ at  indeces 9368
+
+ at  indeces 9467
+
+ at  indeces 9498
+
+ at  indeces 9545
+
+ at  indeces 10245
+Snippet of first occurence: rocks cooled magma melted rock found underground  lava molten rock 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/List of All Countries in the World.htm
+ at  indeces 2886
+
+ at  indeces 3414
+Snippet of first occurence:    cookie  found   invalid default  
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+ at  indeces 32794
+
+ at  indeces 40445
+
+ at  indeces 40896
+
+ at  indeces 59566
+
+ at  indeces 70376
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+ at  indeces 75072
+Snippet of first occurence: links  professional work  found  www kemibe  div 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/ROYGBIV - Wikipedia.htm
+ at  indeces 16874
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+ at  indeces 42805
+
+ at  indeces 43707
+
+ at  indeces 57879
+
+ at  indeces 58106
+Snippet of first occurence:  washington entered philadelphia  found willy nilly  head  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In a Cup — Facts, Figures And Converter.htm
+ at  indeces 826
+Snippet of first occurence:  cup strong span have found craving  dessert thinking  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/US Fluid Ounces to US Cups conversion.htm
+ at  indeces 6168
+Snippet of first occurence: full terms amp conditions  found   href https www 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Live Science.htm
+ at  indeces 176407
+
+ at  indeces 183394
+
+ at  indeces 193361
+Snippet of first occurence: million year sperm  oldest found div div class  nextup 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/1955 First McDonalds Opened.html
+ at  indeces 5239
+Snippet of first occurence: american history world history  found  historycental history  home 
+The word "found"appears  19 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+ at  indeces 4971
+
+ at  indeces 20511
+
+ at  indeces 22885
+
+ at  indeces 23302
+
+ at  indeces 26506
+
+ at  indeces 27966
+
+ at  indeces 28264
+
+ at  indeces 28357
+
+ at  indeces 29525
+
+ at  indeces 29647
+
+ at  indeces 29759
+
+ at  indeces 30524
+
+ at  indeces 31010
+
+ at  indeces 31492
+
+ at  indeces 31809
+
+ at  indeces 31880
+
+ at  indeces 32079
+
+ at  indeces 32998
+
+ at  indeces 33910
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  12 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 2495
+
+ at  indeces 2501
+
+ at  indeces 9152
+
+ at  indeces 9156
+
+ at  indeces 16449
+
+ at  indeces 16787
+
+ at  indeces 19863
+
+ at  indeces 20941
+
+ at  indeces 21158
+
+ at  indeces 21656
+
+ at  indeces 22406
+
+ at  indeces 22606
+Snippet of first occurence: nps gov grca planyourvisit lost found htm span onclick lost amp 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Ever wondered why the sky is blue_ Or why sunsets are red_ - Kids Environment Kids Health - National Institute of Environmental Health Sciences.htm
+ at  indeces 12828
+Snippet of first occurence: anchor    scientists found answers  questions   
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are in a rainbow, and what does each mean_ - Quora.htm
+ at  indeces 82337
+
+ at  indeces 82533
+Snippet of first occurence: colors types  pink  found   rainbow style box 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+ at  indeces 11100
+
+ at  indeces 16891
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+ at  indeces 225582
+
+ at  indeces 225647
+Snippet of first occurence: callback  concat result  found  return   callback 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+ at  indeces 15765
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World.htm
+ at  indeces 21383
+
+ at  indeces 21702
+
+ at  indeces 21995
+
+ at  indeces 22321
+
+ at  indeces 22664
+
+ at  indeces 22928
+
+ at  indeces 23090
+
+ at  indeces 23291
+Snippet of first occurence: desert china   strong found strong    stretching 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. States_ 50 States and State Capitals _ HISTORY.com - HISTORY.html
+ at  indeces 9025
+
+ at  indeces 32306
+
+ at  indeces 34224
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+ at  indeces 7871
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  10 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 6580
+
+ at  indeces 107136
+
+ at  indeces 107262
+
+ at  indeces 107271
+
+ at  indeces 107301
+
+ at  indeces 107305
+
+ at  indeces 107335
+
+ at  indeces 107340
+
+ at  indeces 107349
+
+ at  indeces 108294
+Snippet of first occurence: applicationid  appdefinitionid appdefinitionname get found  google instance instanceid sectionpublished 
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Scientific American.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/The Optical Society_ Exploring the Science of Light _ Optics For Kids.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ _ Explore Royal Observatory Greenwich.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/The tragic real-life story of the McDonald brothers.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/U.S. state.html
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Cup (unit) - Wikipedia.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Weather Wise Education Modules.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Blue Sky_ Waves & Light Science Activity _ Exploratorium Teacher Institute Project.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ by Ethan Siegel _ Starts With A Bang! _ Medium.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Coronavirus_ The world in lockdown in maps and charts - BBC News.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Blue or black sky_ _ Causes of Color.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How Geology formed Grand Canyon • James Kaiser.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Weighty matters_ How many ounces does your cup hold_ - Chicago Tribune.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, & Coinciding Sessions of Congress _ US House of Representatives_ History, Art & Archives.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Colors Are in the Rainbow, Really_ _ Museum of Science, Boston.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Why Are There 7 Colors in the Rainbow_.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Met Office.htm
+The word "because "appears in /Users/ibrahimsuhail/Desktop/corpus/What are the Three Branches of Government_ _ The Judicial Learning Center.htm
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+ at  indeces 27727
+Snippet of first occurence:  statue  scrap metal because  archeologists  exact location 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+ at  indeces 9754
+Snippet of first occurence: redwall limestone  streams flow because  volcanic activity flood waters 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Scientific American.htm
+ at  indeces 5665
+Snippet of first occurence:  atmosphere line  sight because occurs blue light red sky 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The Optical Society_ Exploring the Science of Light _ Optics For Kids.htm
+ at  indeces 2650
+
+ at  indeces 2750
+Snippet of first occurence: dust water droplets ice crystals because  extremely small size  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+ at  indeces 28945
+Snippet of first occurence: means  firsthand and  because real magic    
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ _ Explore Royal Observatory Greenwich.htm
+ at  indeces 9262
+Snippet of first occurence:  call   exosphere because  lack   atmosphere 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+ at  indeces 17669
+
+ at  indeces 18200
+Snippet of first occurence: red  neighbor   because colors bleed settling colors  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The tragic real-life story of the McDonald brothers.htm
+ at  indeces 5195
+Snippet of first occurence: hated guts    because brothers  longer owned changed 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+ at  indeces 49857
+Snippet of first occurence: for dry measurements rules change because dry ingredients vary greatly  
+The word "because"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 6054
+
+ at  indeces 7859
+
+ at  indeces 9420
+
+ at  indeces 17820
+
+ at  indeces 22701
+
+ at  indeces 26182
+Snippet of first occurence: prism  article  fake because  illustrates  point  
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+ at  indeces 97569
+
+ at  indeces 98628
+Snippet of first occurence: credits exemptions  favorable industries because  film industry grown contributed 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state.html
+ at  indeces 2915
+
+ at  indeces 3047
+Snippet of first occurence:      because  territories previously controlled  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+ at  indeces 13341
+Snippet of first occurence: jane  make things confusing because    bear  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Cup (unit) - Wikipedia.htm
+ at  indeces 27892
+Snippet of first occurence:  vary due  location because actual drinking  href https 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+ at  indeces 291435
+Snippet of first occurence:  earlier water  air because tropical areas  caribbean hawaii 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Weather Wise Education Modules.htm
+ at  indeces 593
+Snippet of first occurence:   milk white blue because  fat protein molecules  
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Blue Sky_ Waves & Light Science Activity _ Exploratorium Teacher Institute Project.htm
+ at  indeces 21985
+
+ at  indeces 22181
+Snippet of first occurence:   scattered  atmosphere because wavelength   shorter blue 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+ at  indeces 550
+Snippet of first occurence: reasons water  big impact because soil  grand canyon  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+ at  indeces 28777
+Snippet of first occurence: one pound  officially grams because  pound  ounces officially 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ by Ethan Siegel _ Starts With A Bang! _ Medium.htm
+ at  indeces 8890
+
+ at  indeces 26885
+Snippet of first occurence:   data selectable paragraph because   imprecise  restate 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Coronavirus_ The world in lockdown in maps and charts - BBC News.htm
+ at  indeces 9892
+Snippet of first occurence: idcta statusbar publiclycacheable true script because  loading notification bell css 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Blue or black sky_ _ Causes of Color.htm
+ at  indeces 1518
+Snippet of first occurence: sky   rayleigh scattering because effect sharply pronounced  energy 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 158375
+Snippet of first occurence: form grand canyon  walls because layers exposed canyon  mile 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+ at  indeces 45581
+
+ at  indeces 47193
+Snippet of first occurence: div  div   because molecules smaller wavelength  light 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Geology formed Grand Canyon • James Kaiser.htm
+ at  indeces 2495
+Snippet of first occurence: animals cemented limestone   because grand canyon  rocks laid 
+The word "because"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+ at  indeces 74140
+
+ at  indeces 74426
+Snippet of first occurence: class section section   because reflected sunlight  sun  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Weighty matters_ How many ounces does your cup hold_ - Chicago Tribune.htm
+ at  indeces 174399
+Snippet of first occurence:   cup   because  potential inaccuracies professional kitchens 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+ at  indeces 42428
+Snippet of first occurence:      because vote counting long delayed washington 
+The word "because"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, & Coinciding Sessions of Congress _ US House of Representatives_ History, Art & Archives.htm
+ at  indeces 4481
+
+ at  indeces 4633
+
+ at  indeces 11190
+Snippet of first occurence: date presidential term january  because  change number  congresses 
+The word "because"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Colors Are in the Rainbow, Really_ _ Museum of Science, Boston.htm
+ at  indeces 41576
+
+ at  indeces 41921
+
+ at  indeces 42198
+Snippet of first occurence:  yellowish light  bluish because  reflecting slightly types  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Are There 7 Colors in the Rainbow_.htm
+ at  indeces 11902
+Snippet of first occurence: picked green line  spectrum because light sun reaching earth  
+The word "because"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 19427
+
+ at  indeces 19912
+
+ at  indeces 20611
+Snippet of first occurence:   feet sea level because sea level    
+The word "because"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_.htm
+ at  indeces 26141
+
+ at  indeces 28492
+
+ at  indeces 41470
+
+ at  indeces 42053
+
+ at  indeces 45573
+
+ at  indeces 47598
+Snippet of first occurence:  span style font weight because   consensus sovereignty  
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Met Office.htm
+ at  indeces 8627
+Snippet of first occurence: gas nitrogen oxygen  air because molecules smaller wavelength  visible 
+The word "because"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Three Branches of Government_ _ The Judicial Learning Center.htm
+ at  indeces 4583
+Snippet of first occurence: government articles    because government strong  title glossary 
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/John Hanson, so-called first president, dies - HISTORY.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in a Cup.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Richard and Maurice McDonald - Wikipedia.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Rainbows.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc and the McDonald's Phenomenon.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ HowStuffWorks.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/We No Longer Have Three Branches of Government - POLITICO Magazine.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/What Is the Rainbow Color Order_ Understanding ROYGBIV.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Teachinghistory.org.html
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/The Grand Canyon_ How It Formed _ PBS LearningMedia.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/How was the Grand Canyon formed_ - Visit Grand Canyon.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Coronavirus_ The world in lockdown in maps and charts - BBC News.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Age of the Grand Canyon _ How Old is the Grand Canyon.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/What Are the Three Branches of U.S. Government and How Do They Work Together_ _ HowStuffWorks.html
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, & Coinciding Sessions of Congress _ US House of Representatives_ History, Art & Archives.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon National Park_ A Traveler's Guide _ HowStuffWorks.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Can You Name The Seven Wonders Of The World_ Most People Can’t Name All Seven.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+The word "beginning "appears in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/John Hanson, so-called first president, dies - HISTORY.htm
+ at  indeces 33850
+Snippet of first occurence: family lived  maryland generations beginning emigration england  grandfather  
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+ at  indeces 35669
+Snippet of first occurence:  class  card body beginning  eighth century   
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+ at  indeces 11688
+Snippet of first occurence:   brown   beginning compelling evidence creation flood  
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+ at  indeces 8757
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+ at  indeces 9367
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 24355
+Snippet of first occurence: field item   point beginning consistent quoted  repeating idea 
+The word "beginning"appears  10 times in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+ at  indeces 466
+
+ at  indeces 2848
+
+ at  indeces 5235
+
+ at  indeces 47843
+
+ at  indeces 52469
+
+ at  indeces 79574
+
+ at  indeces 86798
+
+ at  indeces 93128
+
+ at  indeces 101784
+
+ at  indeces 104006
+Snippet of first occurence:  years ago european colonization beginning  century the united states 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in a Cup.htm
+ at  indeces 3066
+Snippet of first occurence: div class info ask question beginning  expert answer div  
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+ at  indeces 8945
+Snippet of first occurence: president  sitting justices  beginning  term george washington unique 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+ at  indeces 165033
+Snippet of first occurence: styles  attach elements  beginning  end   input 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Richard and Maurice McDonald - Wikipedia.htm
+ at  indeces 29466
+Snippet of first occurence: franchising franchising  system  beginning  restaurant   href 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Rainbows.htm
+ at  indeces 649
+Snippet of first occurence:  rain shower picture  beginning  project    
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc and the McDonald's Phenomenon.htm
+ at  indeces 22667
+Snippet of first occurence: services mcdonald  national agent beginning  age  franchising that 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 70848
+Snippet of first occurence:   october  gestation beginning utzon  selection  winner 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ HowStuffWorks.htm
+ at  indeces 166188
+Snippet of first occurence: styles  attach elements  beginning  end   input 
+The word "beginning"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/We No Longer Have Three Branches of Government - POLITICO Magazine.htm
+ at  indeces 6907
+
+ at  indeces 7170
+Snippet of first occurence: insurrection reacting  presidential overreach beginning truman taking nation  war 
+The word "beginning"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/What Is the Rainbow Color Order_ Understanding ROYGBIV.htm
+ at  indeces 112405
+
+ at  indeces 118994
+
+ at  indeces 181806
+Snippet of first occurence: styles  attach elements  beginning  end   input 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Teachinghistory.org.html
+ at  indeces 2722
+Snippet of first occurence:  delegate  constitutional convention beginning  june sign ratify articles 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+ at  indeces 8352
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Grand Canyon_ How It Formed _ PBS LearningMedia.htm
+ at  indeces 32069
+Snippet of first occurence: description vjs control text  beginning  dialog window escape cancel 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How was the Grand Canyon formed_ - Visit Grand Canyon.htm
+ at  indeces 3186
+Snippet of first occurence: helped  create grand canyon beginning approximately  million years ago 
+The word "beginning"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Coronavirus_ The world in lockdown in maps and charts - BBC News.htm
+ at  indeces 16593
+
+ at  indeces 16790
+
+ at  indeces 16806
+Snippet of first occurence:  official lockdown schools shut beginning  march that  lack 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+ at  indeces 5225
+Snippet of first occurence:  grow expand international markets beginning  opening  canada puerto 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 158235
+Snippet of first occurence: colorado river carved grand canyon beginning  million   million 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why The Sky Is Blue, According To Science.htm
+ at  indeces 50035
+Snippet of first occurence: description vjs control text  beginning  dialog window escape cancel 
+The word "beginning"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+ at  indeces 264
+
+ at  indeces 8618
+Snippet of first occurence:  earth  history the beginning  story starts  bottom 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+ at  indeces 61103
+Snippet of first occurence: the share price moved  beginning  year   high 
+The word "beginning"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Age of the Grand Canyon _ How Old is the Grand Canyon.htm
+ at  indeces 3148
+
+ at  indeces 3635
+
+ at  indeces 3647
+
+ at  indeces 3693
+Snippet of first occurence: reversal     beginning  million years ago mountain 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Three Branches of U.S. Government and How Do They Work Together_ _ HowStuffWorks.html
+ at  indeces 166615
+Snippet of first occurence: styles  attach elements  beginning  end   input 
+The word "beginning"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, & Coinciding Sessions of Congress _ US House of Representatives_ History, Art & Archives.htm
+ at  indeces 4445
+
+ at  indeces 4460
+
+ at  indeces 4473
+
+ at  indeces 4597
+
+ at  indeces 4612
+
+ at  indeces 4625
+
+ at  indeces 11154
+
+ at  indeces 11169
+
+ at  indeces 11182
+Snippet of first occurence: president term  congress coincided beginning  march  ending  
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon National Park_ A Traveler's Guide _ HowStuffWorks.htm
+ at  indeces 166291
+Snippet of first occurence: styles  attach elements  beginning  end   input 
+The word "beginning"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+ at  indeces 20421
+
+ at  indeces 21823
+
+ at  indeces 22122
+
+ at  indeces 31404
+Snippet of first occurence: caves grand canyon places origins beginning  million years ago previous 
+The word "beginning"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 16345
+
+ at  indeces 19876
+Snippet of first occurence: plateau    finally beginning   million years ago 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+ at  indeces 11474
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Can You Name The Seven Wonders Of The World_ Most People Can’t Name All Seven.htm
+ at  indeces 49780
+Snippet of first occurence: description vjs control text  beginning  dialog window escape cancel 
+The word "beginning"appears  22 times in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+ at  indeces 43444
+
+ at  indeces 43455
+
+ at  indeces 57723
+
+ at  indeces 89453
+
+ at  indeces 122330
+
+ at  indeces 129338
+
+ at  indeces 132803
+
+ at  indeces 140282
+
+ at  indeces 150342
+
+ at  indeces 153966
+
+ at  indeces 191549
+
+ at  indeces 210264
+
+ at  indeces 211814
+
+ at  indeces 212285
+
+ at  indeces 212468
+
+ at  indeces 213555
+
+ at  indeces 214107
+
+ at  indeces 214638
+
+ at  indeces 214820
+
+ at  indeces 217605
+
+ at  indeces 217616
+
+ at  indeces 218924
+Snippet of first occurence:  hour lockdown  sundays beginning august  reduced capacity  
+The word "beginning"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+ at  indeces 16139
+
+ at  indeces 21640
+
+ at  indeces 25688
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+ at  indeces 8245
+Snippet of first occurence:   studying understanding world beginning primitive stage  simply noting 
+The word "beginning"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 110129
+Snippet of first occurence: post editor placeholder this  beginning   great post pagination 
+The word "bounded "appears in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+The word "bounded "appears in /Users/ibrahimsuhail/Desktop/corpus/U.S. state.html
+The word "bounded "appears in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+The word "bounded"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+ at  indeces 82275
+
+ at  indeces 90405
+Snippet of first occurence: asia eastern europe   bounded  west  black sea 
+The word "bounded"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state.html
+ at  indeces 7480
+Snippet of first occurence: bend   colorado wyoming bounded  circles  latitude meridians 
+The word "bounded"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 66314
+Snippet of first occurence:  set  formal gardens bounded  sides   crenellated 
+
+======================================Search with stemming ON======================================
+
+finds = find now
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ The Definitive Guide (With Converter) - Heall.htm
+ at  indeces 74531
+
+ at  indeces 74540
+
+ at  indeces 74549
+
+ at  indeces 74620
+Snippet of first occurence: https heall weight loss  find weight loss clinic rel bookmark 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/What are the seven wonders of the world_ - Telegraph.htm
+ at  indeces 26111
+
+ at  indeces 51563
+
+ at  indeces 51568
+Snippet of first occurence:  subscriber  join conversation find   href https www 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of Government _ house.gov.html
+ at  indeces 583
+
+ at  indeces 600
+
+ at  indeces 621
+
+ at  indeces 631
+Snippet of first occurence: item div class block title find your representative div   
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+ at  indeces 6118
+
+ at  indeces 10956
+
+ at  indeces 11638
+
+ at  indeces 12850
+Snippet of first occurence: image  president john hanson find publish image  liberian statesman 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Was The Grand Canyon Formed_ » Science ABC.htm
+ at  indeces 25802
+Snippet of first occurence: text align justify therefore time find gazing  majestic piece  
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of Government _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 19197
+
+ at  indeces 19264
+
+ at  indeces 19459
+Snippet of first occurence: education opportunities    find  world  div  
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+ at  indeces 8422
+
+ at  indeces 9776
+Snippet of first occurence: years  erosion expect  find large amounts  talus  
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Guide to Law Online_ U.S. States and Territories _ Law Library of Congress _ Library of Congress.html
+ at  indeces 1291
+
+ at  indeces 1292
+
+ at  indeces 1412
+
+ at  indeces 1731
+
+ at  indeces 3677
+Snippet of first occurence: https www loc gov law find find legal resources   
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In a Cup_.htm
+ at  indeces 4326
+
+ at  indeces 12438
+
+ at  indeces 15413
+Snippet of first occurence: title  meta description content find  convert cups ounces view 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Colors Are There In A Rainbow_ Why Don't You See All Colors_.htm
+ at  indeces 23305
+Snippet of first occurence: walk back  school lessons find   style text align 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue and not some other color_ _ WGN-TV.htm
+ at  indeces 23895
+
+ at  indeces 23898
+Snippet of first occurence: item  href https wgntv find  job find  job 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Cooking Equivalents and Measures - Science of Food _ Exploratorium.htm
+ at  indeces 11183
+Snippet of first occurence:  teaspoons conversion chart  find grams  measure  mass 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+ at  indeces 7910
+
+ at  indeces 8091
+
+ at  indeces 9244
+
+ at  indeces 9266
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+ at  indeces 23144
+
+ at  indeces 38871
+
+ at  indeces 59370
+
+ at  indeces 79673
+Snippet of first occurence: opt   time  find  reading  target href 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Video_ The Fluid Fingers of Formation.htm
+ at  indeces 6049
+Snippet of first occurence: level today    find fossils  ocean creatures deposited 
+The word "find"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/Ounces To Cups And Other Cooking Conversions _ Allrecipes.htm
+ at  indeces 337
+
+ at  indeces 406
+
+ at  indeces 463
+
+ at  indeces 479
+
+ at  indeces 1070
+
+ at  indeces 36662
+
+ at  indeces 36800
+
+ at  indeces 36889
+
+ at  indeces 37082
+Snippet of first occurence: consult measurements equivalents chart  find  link rel canonical href 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_ - Travel Independent . Info.html
+ at  indeces 1610
+
+ at  indeces 2835
+
+ at  indeces 6198
+Snippet of first occurence: data toggle dropdown title what find travel backpacking  road  
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ _ Explore Royal Observatory Greenwich.htm
+ at  indeces 2667
+
+ at  indeces 2669
+
+ at  indeces 2672
+
+ at  indeces 11577
+Snippet of first occurence:  button type button class find button find button processed find 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government _ Harry S. Truman.html
+ at  indeces 14456
+
+ at  indeces 14543
+Snippet of first occurence: path     find  page path   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+ at  indeces 22168
+Snippet of first occurence: comment content  you  find  rainbow colour animation page 
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/John Hanson_ First President of the United States _ OAH Magazine of History _ Oxford Academic.htm
+ at  indeces 1443
+
+ at  indeces 1563
+
+ at  indeces 4219
+
+ at  indeces 6846
+
+ at  indeces 6899
+Snippet of first occurence: slot getslotelementid function   find iframe length  removeclass hide 
+The word "find"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+ at  indeces 339
+
+ at  indeces 495
+
+ at  indeces 56155
+
+ at  indeces 56161
+
+ at  indeces 56232
+
+ at  indeces 56429
+
+ at  indeces 56435
+
+ at  indeces 56446
+Snippet of first occurence:   simple   find  cooking light  link 
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+ at  indeces 8520
+
+ at  indeces 8701
+
+ at  indeces 9854
+
+ at  indeces 9876
+
+ at  indeces 14176
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/7 Wonders of the World _ Seven Wonders.htm
+ at  indeces 894
+Snippet of first occurence: mapsofworld  description world map find map  world labeled country 
+The word "find"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 4638
+
+ at  indeces 9730
+
+ at  indeces 10557
+
+ at  indeces 11617
+
+ at  indeces 13216
+
+ at  indeces 13747
+
+ at  indeces 13772
+
+ at  indeces 14251
+
+ at  indeces 23460
+Snippet of first occurence: blue  intrinsic   find  hardest time associating  
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in a Cup.htm
+ at  indeces 2036
+Snippet of first occurence: easily  conversion chart you find imperial cups nowadays  added 
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Separation of Powers in Action - U.S. v. Alvarez _ United States Courts.html
+ at  indeces 6582
+
+ at  indeces 6589
+
+ at  indeces 11699
+
+ at  indeces 11703
+
+ at  indeces 20543
+
+ at  indeces 20552
+Snippet of first occurence: www uscourts gov court records find case pacer class  depth 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Our History_ Ray Kroc & The McDonald's Brothers _ McDonald's.htm
+ at  indeces 15442
+
+ at  indeces 22989
+Snippet of first occurence:    unable  find restaurants  area please quot 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are there in the... _ Trivia Answers _ QuizzClub.html
+ at  indeces 11168
+
+ at  indeces 11234
+
+ at  indeces 11811
+
+ at  indeces 11877
+Snippet of first occurence: form  var submits form find input type submit button type 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the 7 Rainbow Colors_ - Continuous Spectrum.htm
+ at  indeces 7073
+Snippet of first occurence:   primary rainbow colors find  pattern that remains  
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+ at  indeces 8340
+
+ at  indeces 18284
+
+ at  indeces 18389
+
+ at  indeces 18998
+
+ at  indeces 19388
+
+ at  indeces 19681
+Snippet of first occurence:  day  president nbsp find  interactive timeline   
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+ at  indeces 6560
+
+ at  indeces 12917
+
+ at  indeces 17372
+Snippet of first occurence: marketplace org marketplace radio airtimes find your local station   
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Measurements_ How many ounces are in a cup_ - Quora.htm
+ at  indeces 21460
+
+ at  indeces 64301
+
+ at  indeces 65248
+Snippet of first occurence: style normal background let  find  span  span class 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+ at  indeces 1542
+
+ at  indeces 1720
+
+ at  indeces 288283
+
+ at  indeces 288808
+Snippet of first occurence: handful  learn  school find  make rainbow   
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Original Seven Wonders of the World_ - ABC News.htm
+ at  indeces 80539
+
+ at  indeces 84643
+Snippet of first occurence:  target singing prodigy  find what original seven wonders  
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/1st President - 10th President _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 8474
+
+ at  indeces 8537
+
+ at  indeces 8728
+Snippet of first occurence: education opportunities    find  world  div  
+The word "find"appears  7 times in /Users/ibrahimsuhail/Desktop/corpus/How Was the Grand Canyon Formed_ - Lesson for Kids - Video & Lesson Transcript _ Study.com.html
+ at  indeces 6224
+
+ at  indeces 9388
+
+ at  indeces 9974
+
+ at  indeces 14541
+
+ at  indeces 31249
+
+ at  indeces 33138
+
+ at  indeces 33200
+Snippet of first occurence: expanded false aria controls coursesbysubject find courses  subject   
+The word "find"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government - UEN.htm
+ at  indeces 201
+
+ at  indeces 2014
+
+ at  indeces 2019
+
+ at  indeces 3599
+
+ at  indeces 3722
+
+ at  indeces 4034
+
+ at  indeces 5989
+
+ at  indeces 9049
+
+ at  indeces 9819
+Snippet of first occurence: content themepark  place  find internet resources organized broad based 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Visit the New Seven Wonders of the World _ GetYourGuide.htm
+ at  indeces 15618
+
+ at  indeces 16239
+Snippet of first occurence:  href https www getyourguide find activities     
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ - My Dainty Soul Curry.htm
+ at  indeces 25196
+
+ at  indeces 26205
+Snippet of first occurence: metric imperial measurement recipes time find  hard  convert thank 
+The word "find"appears  14 times in /Users/ibrahimsuhail/Desktop/corpus/About the United States _ USAGov.htm
+ at  indeces 273
+
+ at  indeces 324
+
+ at  indeces 7967
+
+ at  indeces 7986
+
+ at  indeces 7989
+
+ at  indeces 8233
+
+ at  indeces 8405
+
+ at  indeces 11933
+
+ at  indeces 12863
+
+ at  indeces 14620
+
+ at  indeces 14854
+
+ at  indeces 15106
+
+ at  indeces 15159
+
+ at  indeces 15345
+Snippet of first occurence:  question usa learn  find answers  requested facts united 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald's Ray Kroc cheated the brothers who REALLY started empire out of $300m _ Daily Mail Online.htm
+ at  indeces 80397
+
+ at  indeces 99957
+
+ at  indeces 140791
+
+ at  indeces 141044
+Snippet of first occurence:   agreement   find  font   class 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Seven Wonders of the World, from Ancient to Modern.htm
+ at  indeces 17291
+Snippet of first occurence: div class left   find   patron check exclusive 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Scientists Are Still Uncovering The Grand Canyon's Geological 'Secrets' _ Here & Now.htm
+ at  indeces 20241
+Snippet of first occurence: million users thousand communities  find kinds  jaw dropping narratives 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 61059
+
+ at  indeces 62196
+Snippet of first occurence: news    continues find  news room   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Story of How McDonald’s First Got Its Start _ History _ Smithsonian Magazine.htm
+ at  indeces 42620
+Snippet of first occurence: decades  their hope  find fame   unearth fortune 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ HowStuffWorks.htm
+ at  indeces 1765
+Snippet of first occurence:  atmosphere scatters light sun find makes sky blue  article 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+ at  indeces 6857
+Snippet of first occurence: one search  vain  find  powerful personage   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What Is the Rainbow Color Order_ Understanding ROYGBIV.htm
+ at  indeces 307671
+Snippet of first occurence: class btn btn red light find out how   div 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries in the world_ 193_ 197_ 215_.htm
+ at  indeces 15627
+
+ at  indeces 15634
+
+ at  indeces 22460
+
+ at  indeces 34461
+Snippet of first occurence: button type submit data hook find tickets button class jsx  
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The First 10 Presidents of the United States and What They Accomplished - HISTORY.htm
+ at  indeces 30053
+Snippet of first occurence:  political initiatives failed  find support   divided congress 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/11 Surprising Facts About McDonald’s History and Present _ PEOPLE.com.html
+ at  indeces 45527
+Snippet of first occurence: nationwide uncertain    find  large group  potential 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/PolitiFact _ No, the first American president wasn’t a black man named John Hanson.htm
+ at  indeces 6126
+
+ at  indeces 16870
+Snippet of first occurence: the notable john hanson  find  american history  href 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Science With Samantha_ Why Is the Sky Blue_ – NBC 5 Dallas-Fort Worth.htm
+ at  indeces 2350
+
+ at  indeces 201360
+
+ at  indeces 201375
+
+ at  indeces 201494
+Snippet of first occurence:   return searchvalregex test find  text   show 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+ at  indeces 7505
+
+ at  indeces 7686
+
+ at  indeces 8805
+
+ at  indeces 8846
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries Are There_ - Geography Realm.htm
+ at  indeces 666
+
+ at  indeces 4386
+Snippet of first occurence:  enjoy writing natural world find lots  ways  flex 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington - Facts, Presidency & Quotes - Biography.htm
+ at  indeces 37320
+Snippet of first occurence: states meta itemprop description content find george washington defined office  
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The Grand Canyon_ How It Formed _ PBS LearningMedia.htm
+ at  indeces 29647
+
+ at  indeces 39406
+Snippet of first occurence: supportmaterials label support materials tooltip find activities materials resource uhv  
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+ at  indeces 4209
+Snippet of first occurence:  primary layers visible can find      
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government.htm
+ at  indeces 1120
+
+ at  indeces 6584
+Snippet of first occurence: getselectedvalue   return  find   span html  
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/The Evolution of McDonald’s In Photos - The History of McDonald's.htm
+ at  indeces 13463
+
+ at  indeces 13787
+
+ at  indeces 40634
+
+ at  indeces 55854
+
+ at  indeces 55896
+
+ at  indeces 55953
+Snippet of first occurence:   meta description content find mcdonald    popular 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/All You Need to Know About The Seven Wonders of The World.htm
+ at  indeces 120165
+Snippet of first occurence: box length  blockquote box find  remove  script  
+The word "find"appears  11 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+ at  indeces 864
+
+ at  indeces 1052
+
+ at  indeces 1128
+
+ at  indeces 5174
+
+ at  indeces 9359
+
+ at  indeces 32485
+
+ at  indeces 32636
+
+ at  indeces 32823
+
+ at  indeces 32944
+
+ at  indeces 33013
+
+ at  indeces 36022
+Snippet of first occurence:   meta description content find  fluid ounces   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/New 7 Wonders of The World _ TravelChannel.com _ Travel Channel.html
+ at  indeces 9960
+Snippet of first occurence: jqmethods css hide addclass removeclass find remove html height offset animate 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Coronavirus_ The world in lockdown in maps and charts - BBC News.htm
+ at  indeces 5589
+Snippet of first occurence: window require throw error idcta find require module  typeof map 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Who is the founder of McDonald’s_ - Quora.htm
+ at  indeces 51602
+
+ at  indeces 51610
+
+ at  indeces 51644
+Snippet of first occurence: this website   people find  answer  question  
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+ at  indeces 1031
+
+ at  indeces 7738
+Snippet of first occurence:    unable  find restaurants  area please quot 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ NOAA SciJinks – All About Weather.htm
+ at  indeces 2021
+Snippet of first occurence: wavelengths analyzing information atmospheric scientists find surface atmospheric temperatures levels  
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Checks and Balances.htm
+ at  indeces 426
+
+ at  indeces 459
+
+ at  indeces 565
+
+ at  indeces 684
+
+ at  indeces 2514
+Snippet of first occurence: container container document  container find advancedselect chosen  true true 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 158516
+Snippet of first occurence: country  new mexico  find  river mentioned  hopi 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/8 Facts About the Grand Canyon You Never Knew _ National Park Foundation.htm
+ at  indeces 25838
+
+ at  indeces 25841
+
+ at  indeces 42150
+
+ at  indeces 59987
+Snippet of first occurence: nationalparks org work campaigns initiatives find park class find your park 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/A-Z list of Countries and Regions in the World __ Nations Online Project.htm
+ at  indeces 219
+
+ at  indeces 296
+
+ at  indeces 4249
+Snippet of first occurence:  world  english french find country profiles country links information 
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/How many Ounces (oz) are in a Cup_.htm
+ at  indeces 187
+
+ at  indeces 273
+
+ at  indeces 540
+
+ at  indeces 2948
+
+ at  indeces 4661
+Snippet of first occurence: cup title meta description content find answer how ounces   
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/First President · George Washington's Mount Vernon.htm
+ at  indeces 13746
+
+ at  indeces 13851
+
+ at  indeces 14460
+
+ at  indeces 14850
+
+ at  indeces 15143
+Snippet of first occurence: center route interpretive center content find activities happening  interpretive center 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Journey to the Seven Wonders _ Travel _ Smithsonian Magazine.htm
+ at  indeces 31257
+
+ at  indeces 31790
+
+ at  indeces 44248
+
+ at  indeces 45419
+Snippet of first occurence:  midtown manhattan surprised  find  series  pictorial stained 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Cups to Fluid Ounces (oz) Converter.htm
+ at  indeces 4089
+
+ at  indeces 5827
+
+ at  indeces 5832
+Snippet of first occurence: converter formula conversion table  find ounces  cups description  
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/The 25 Best Countries in the World _ Best Countries _ US News.htm
+ at  indeces 18883
+
+ at  indeces 18893
+
+ at  indeces 18937
+
+ at  indeces 37317
+
+ at  indeces 37330
+
+ at  indeces 37387
+Snippet of first occurence:   var email form find input email val   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Colors of the Rainbow, Color Spektrum & Light Physics.htm
+ at  indeces 1475
+Snippet of first occurence:     can find  missing links   
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+ at  indeces 10918
+Snippet of first occurence:    citizen science find projects  involved  usgs 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Can You Name the New Seven Wonders of the World_ _ Travel and Exploration _ Discovery.htm
+ at  indeces 8326
+
+ at  indeces 12609
+
+ at  indeces 37219
+
+ at  indeces 37313
+Snippet of first occurence: jqmethods css hide addclass removeclass find remove html height offset animate 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/List of All Countries in the World.htm
+ at  indeces 3600
+
+ at  indeces 4061
+
+ at  indeces 24224
+
+ at  indeces 24692
+Snippet of first occurence: billion  countries below  find beautiful places  visit  
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/White House History.htm
+ at  indeces 1331
+Snippet of first occurence:   competition held  find  builder  president  
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Geology formed Grand Canyon • James Kaiser.htm
+ at  indeces 2532
+Snippet of first occurence:  bottom  canyon  find region  oldest exposed rocks 
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+ at  indeces 75243
+
+ at  indeces 77361
+
+ at  indeces 78467
+
+ at  indeces 79881
+
+ at  indeces 80839
+Snippet of first occurence: class thumbs container span did find page helpful span div class 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Age of the Grand Canyon _ How Old is the Grand Canyon.htm
+ at  indeces 2970
+
+ at  indeces 4245
+Snippet of first occurence: canyon   engaging style find inviting    center 
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Weighty matters_ How many ounces does your cup hold_ - Chicago Tribune.htm
+ at  indeces 178232
+
+ at  indeces 178304
+
+ at  indeces 181059
+
+ at  indeces 181147
+
+ at  indeces 181238
+
+ at  indeces 181434
+Snippet of first occurence: title href https smartasset retirement find  financial planner taboola amp 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Three Branches of U.S. Government and How Do They Work Together_ _ HowStuffWorks.html
+ at  indeces 288289
+Snippet of first occurence:   hardcore political junkie find bewildered  main parts  
+The word "find"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Branches of Government.htm
+ at  indeces 466
+
+ at  indeces 499
+
+ at  indeces 605
+
+ at  indeces 724
+
+ at  indeces 2545
+Snippet of first occurence: container container document  container find advancedselect chosen  true true 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, & Coinciding Sessions of Congress _ US House of Representatives_ History, Art & Archives.htm
+ at  indeces 6909
+
+ at  indeces 6918
+
+ at  indeces 6929
+Snippet of first occurence: log  var tds tbl find tbody  nth child col 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon National Park_ A Traveler's Guide _ HowStuffWorks.htm
+ at  indeces 1594
+
+ at  indeces 1781
+Snippet of first occurence: travelers year keep reading  find visitor information details  natural 
+The word "find"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Why Are There 7 Colors in the Rainbow_.htm
+ at  indeces 4418
+
+ at  indeces 11850
+
+ at  indeces 16561
+
+ at  indeces 18307
+
+ at  indeces 18314
+
+ at  indeces 18402
+Snippet of first occurence: level href https designers search find  designer  div div 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/1955 First McDonalds Opened.html
+ at  indeces 5278
+Snippet of first occurence: whatever aspect  history learn find   historycentral   
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+ at  indeces 33060
+
+ at  indeces 65659
+Snippet of first occurence:    within woodland find  href https  wikipedia 
+The word "find"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of the U.S. Government _ USAGov.html
+ at  indeces 8301
+
+ at  indeces 8320
+
+ at  indeces 8323
+
+ at  indeces 8571
+
+ at  indeces 8745
+
+ at  indeces 12335
+
+ at  indeces 13279
+
+ at  indeces 15042
+
+ at  indeces 27514
+Snippet of first occurence: www usa gov government jobs find  federal government job  
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/The ‘New Seven Wonders of the World’ - The New York Times.htm
+ at  indeces 15712
+
+ at  indeces 54918
+
+ at  indeces 87404
+Snippet of first occurence:  note  shocked  find change transform work  both 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Alphabetical List Of 50 States.htm
+ at  indeces 1355
+Snippet of first occurence:   census data you find information   href https 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 7457
+
+ at  indeces 7828
+Snippet of first occurence: findapark index htm span onclick find  park span   
+The word "find"appears  16 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, and First Ladies of the United States _ USAGov.htm
+ at  indeces 275
+
+ at  indeces 327
+
+ at  indeces 2246
+
+ at  indeces 2353
+
+ at  indeces 10314
+
+ at  indeces 10333
+
+ at  indeces 10336
+
+ at  indeces 10580
+
+ at  indeces 10752
+
+ at  indeces 14280
+
+ at  indeces 15210
+
+ at  indeces 16967
+
+ at  indeces 17438
+
+ at  indeces 19095
+
+ at  indeces 19161
+
+ at  indeces 19755
+Snippet of first occurence:   meta description content find contact information facts presidents vice 
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Three Branches of Government _ GW Political Management Program.htm
+ at  indeces 8701
+Snippet of first occurence:  prev panel heading  find  toggleclass  minus  
+The word "find"appears  9 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_.htm
+ at  indeces 218
+
+ at  indeces 291
+
+ at  indeces 629
+
+ at  indeces 7986
+
+ at  indeces 39795
+
+ at  indeces 46941
+
+ at  indeces 48539
+
+ at  indeces 54129
+
+ at  indeces 54437
+Snippet of first occurence: quot   simple  find answer  meta robots content 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Met Office.htm
+ at  indeces 3576
+
+ at  indeces 8047
+Snippet of first occurence: gov  data index  find  forecast    
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Ever wondered why the sky is blue_ Or why sunsets are red_ - Kids Environment Kids Health - National Institute of Environmental Health Sciences.htm
+ at  indeces 13178
+Snippet of first occurence: htm  div class whats find out div    
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Chronological List of Presidents, First Ladies, and Vice Presidents of the United States - Guides, Reference Aids, and Finding Aids (Prints andPhotographs Reading Room, Library of Congress).htm
+ at  indeces 584
+
+ at  indeces 585
+
+ at  indeces 613
+
+ at  indeces 5631
+Snippet of first occurence:  height  align label find find label    
+The word "find"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are in a rainbow, and what does each mean_ - Quora.htm
+ at  indeces 74299
+Snippet of first occurence: style normal background you easily find colours  favorite search engine 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Fluid Ounces to Cups Converter (oz to cups).htm
+ at  indeces 6245
+
+ at  indeces 6250
+Snippet of first occurence:  visibleurl short color gcsc find  google color gcsc find 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+ at  indeces 10627
+
+ at  indeces 10808
+
+ at  indeces 11961
+
+ at  indeces 11983
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/The 50 States of America _ US State Information.htm
+ at  indeces 21008
+
+ at  indeces 23935
+
+ at  indeces 25098
+Snippet of first occurence:  state  map  find facts statistics historical information  
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Three Branches of Government_ _ The Judicial Learning Center.htm
+ at  indeces 5040
+
+ at  indeces 6105
+Snippet of first occurence: national archives strong website  find full text    
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+ at  indeces 15292
+
+ at  indeces 15473
+
+ at  indeces 16592
+
+ at  indeces 16633
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World.htm
+ at  indeces 21871
+
+ at  indeces 23511
+Snippet of first occurence: stone walls  hard  find area however  requires unimaginable 
+The word "find"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the Sky Blue_.htm
+ at  indeces 741
+
+ at  indeces 746
+Snippet of first occurence:  visibleurl short color gcsc find  google color gcsc find 
+The word "find"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+ at  indeces 7398
+
+ at  indeces 7579
+
+ at  indeces 8698
+
+ at  indeces 8739
+Snippet of first occurence: lists url list browse description find tops editors lists title wtfact 
+The word "find"appears  11 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 1964
+
+ at  indeces 2008
+
+ at  indeces 2297
+
+ at  indeces 4591
+
+ at  indeces 4686
+
+ at  indeces 8899
+
+ at  indeces 107139
+
+ at  indeces 107312
+
+ at  indeces 107356
+
+ at  indeces 108299
+
+ at  indeces 108838
+Snippet of first occurence:  get advanced insights description find visitors browsers operating systems  
+
+======================================Search with stemming ON======================================
+
+found = found now
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/John Hanson, so-called first president, dies - HISTORY.htm
+ at  indeces 21937
+
+ at  indeces 40747
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What are the seven wonders of the world_ - Telegraph.htm
+ at  indeces 50745
+
+ at  indeces 50768
+Snippet of first occurence: console log  title frame found trying  send message  
+The word "found"appears  17 times in /Users/ibrahimsuhail/Desktop/corpus/Fact check_ The first Black U.S. president was not a man named “John Hansen” _ Reuters.html
+ at  indeces 5501
+
+ at  indeces 5809
+
+ at  indeces 5901
+
+ at  indeces 10509
+
+ at  indeces 10730
+
+ at  indeces 10791
+
+ at  indeces 11177
+
+ at  indeces 11398
+
+ at  indeces 11473
+
+ at  indeces 12403
+
+ at  indeces 12624
+
+ at  indeces 12685
+
+ at  indeces 13316
+
+ at  indeces 47118
+
+ at  indeces 47142
+
+ at  indeces 55851
+
+ at  indeces 59580
+Snippet of first occurence: para examples  posts  found nbsp  href https www 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Sevens Wonders of the Ancient World - List & Timeline - HISTORY.htm
+ at  indeces 9079
+
+ at  indeces 23805
+
+ at  indeces 24669
+
+ at  indeces 28314
+
+ at  indeces 38791
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/When and How Did the Grand Canyon Form_ _ Answers in Genesis.htm
+ at  indeces 7483
+
+ at  indeces 7498
+
+ at  indeces 7938
+
+ at  indeces 8204
+
+ at  indeces 8247
+Snippet of first occurence:   older canyon basalts found  north rim western end 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How McDonald's Beat Its Early Competition and Became an Icon of Fast Food - HISTORY.htm
+ at  indeces 9511
+
+ at  indeces 30950
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue_ - Scientific American.htm
+ at  indeces 7343
+Snippet of first occurence:  scientific publications   found   href http www 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - HISTORY.htm
+ at  indeces 8768
+
+ at  indeces 21697
+
+ at  indeces 33183
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents of the United States _ Britannica.htm
+ at  indeces 8383
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the World for 2020 _ CN Traveller.htm
+ at  indeces 56259
+
+ at  indeces 70595
+
+ at  indeces 81699
+
+ at  indeces 83645
+Snippet of first occurence:  oldest human drawings recorded found  blombos cave miles east 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Video_ The Fluid Fingers of Formation.htm
+ at  indeces 5622
+
+ at  indeces 6482
+Snippet of first occurence: hard  understand early scientists found  difficult  determine responsible 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Curious Kids_ Why is the sky blue and where does it start_.htm
+ at  indeces 12665
+Snippet of first occurence: logger warn  plural rule found    object assign 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state - Wikipedia.html
+ at  indeces 16928
+
+ at  indeces 38199
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Ounces To Cups And Other Cooking Conversions _ Allrecipes.htm
+ at  indeces 84414
+
+ at  indeces 84514
+
+ at  indeces 91047
+
+ at  indeces 94481
+
+ at  indeces 94612
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_ - Travel Independent . Info.html
+ at  indeces 6391
+Snippet of first occurence: spot  mistake  error found incorrect can contribute information  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government _ Harry S. Truman.html
+ at  indeces 440
+Snippet of first occurence: code  licensed mit license found   license file  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+ at  indeces 16986
+Snippet of first occurence: naming colors  order  found    lot harder 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The tragic real-life story of the McDonald brothers.htm
+ at  indeces 5584
+
+ at  indeces 5785
+Snippet of first occurence: mcdonalds pdf target estimate  found mcdonald   billion  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Wonders of the World - Wikipedia.htm
+ at  indeces 16899
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What’s the Difference Between Dry and Liquid Measurements_ _ Cooking Light.htm
+ at  indeces 74617
+
+ at  indeces 74717
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of countries _ Britannica.htm
+ at  indeces 8993
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/7 Wonders of the World _ Seven Wonders.htm
+ at  indeces 3429
+
+ at  indeces 3433
+
+ at  indeces 8625
+Snippet of first occurence: answers regions  countries orangutans found  countries orangutans found  
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 4722
+
+ at  indeces 10297
+Snippet of first occurence:  perception  color surprisingly found  association  language completely 
+The word "found"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/United States of America 50 States. - Google My Maps.html
+ at  indeces 36293
+
+ at  indeces 86464
+
+ at  indeces 89707
+
+ at  indeces 90833
+
+ at  indeces 90980
+
+ at  indeces 91231
+
+ at  indeces 95712
+
+ at  indeces 96994
+Snippet of first occurence: document case  return file found case  return firefox silently 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Our History_ Ray Kroc & The McDonald's Brothers _ McDonald's.htm
+ at  indeces 13608
+
+ at  indeces 14389
+
+ at  indeces 21500
+Snippet of first occurence: california purchased multimixers there  found  small successful restaurant run 
+The word "found"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology & Rocks _ Visitor Center.htm
+ at  indeces 2049
+
+ at  indeces 2053
+
+ at  indeces 2063
+
+ at  indeces 31350
+
+ at  indeces 31366
+
+ at  indeces 31421
+Snippet of first occurence: cdata var noresults  results found oneresult  result found use 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World, Taj Mahal, Machu Picchu, and more.htm
+ at  indeces 14573
+
+ at  indeces 17054
+Snippet of first occurence: iconic christ statue   found   equally iconic city 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/First President George Washington's Mount Vernon.htm
+ at  indeces 22020
+Snippet of first occurence: washington added architectural feature generally found  public buildings  mansion 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Seven Wonders of the Ancient World.htm
+ at  indeces 27720
+
+ at  indeces 34050
+Snippet of first occurence: loading presentation state  deeplink found presentation mode component remove replace 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The true origin story behind McDonald's - Marketplace.htm
+ at  indeces 1398
+
+ at  indeces 12925
+Snippet of first occurence:   what thought knew found wrong     
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Cup (unit) - Wikipedia.htm
+ at  indeces 16797
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Measurements_ How many ounces are in a cup_ - Quora.htm
+ at  indeces 39583
+Snippet of first occurence: depending  dna this company found   people  genes 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/10 Myths About Rainbows _ HowStuffWorks.htm
+ at  indeces 288027
+Snippet of first occurence: inadvertently left  booty leprechauns found now leprechauns knew vikings treasures 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How Was the Grand Canyon Formed_ - Lesson for Kids - Video & Lesson Transcript _ Study.com.html
+ at  indeces 154
+
+ at  indeces 406
+
+ at  indeces 14533
+
+ at  indeces 31241
+Snippet of first occurence: northeastern arizona scientists learning area found    meta property 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Richard and Maurice McDonald - Wikipedia.htm
+ at  indeces 16898
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Rainbows.htm
+ at  indeces 693
+Snippet of first occurence:  colors  order  found   rainbow   
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Seven Wonders - Ancient History Encyclopedia.htm
+ at  indeces 7467
+Snippet of first occurence:    visited building found   surpass description  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ - My Dainty Soul Curry.htm
+ at  indeces 26377
+Snippet of first occurence: commenttext   glad  found website  simplified  thank 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/What McDonald's looked like when it first opened - Business Insider.htm
+ at  indeces 2591
+
+ at  indeces 122248
+
+ at  indeces 127726
+Snippet of first occurence: lives  brooklyn   found    href https 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald's Ray Kroc cheated the brothers who REALLY started empire out of $300m _ Daily Mail Online.htm
+ at  indeces 125178
+
+ at  indeces 129768
+Snippet of first occurence:  kobe  personal items found   abandoned unit sold 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Seven Wonders of the World, from Ancient to Modern.htm
+ at  indeces 14039
+Snippet of first occurence: ancient coins  french archaeologists found  lighthouse  remains submerged 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 63593
+Snippet of first occurence: valid searchwp live search configuration found when autocomplete results  arrows 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/The Story of How McDonald’s First Got Its Start _ History _ Smithsonian Magazine.htm
+ at  indeces 43863
+
+ at  indeces 44838
+
+ at  indeces 56534
+
+ at  indeces 56761
+Snippet of first occurence:  form peppermint patties  found inspiration dick enlisted  mechanically 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of presidents of the United States - Wikipedia.htm
+ at  indeces 16912
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+ at  indeces 6468
+Snippet of first occurence:  hanson  enjoy job found work tedious wished  resign 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/Teachinghistory.org.html
+ at  indeces 2148
+
+ at  indeces 2164
+
+ at  indeces 2178
+
+ at  indeces 2661
+Snippet of first occurence:     research found john hanson president  constitutional 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries in the world_ 193_ 197_ 215_.htm
+ at  indeces 9487
+
+ at  indeces 22288
+
+ at  indeces 37192
+
+ at  indeces 39905
+Snippet of first occurence: answer  countries  world found united nations list recognised countries 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/The First 10 Presidents of the United States and What They Accomplished - HISTORY.htm
+ at  indeces 9266
+
+ at  indeces 39993
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/11 Surprising Facts About McDonald’s History and Present _ PEOPLE.com.html
+ at  indeces 73691
+
+ at  indeces 73791
+Snippet of first occurence:  return   not found   string typeof  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/PolitiFact _ No, the first American president wasn’t a black man named John Hanson.htm
+ at  indeces 17130
+Snippet of first occurence: man murder  appellate court found kamala harris police part  
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Science With Samantha_ Why Is the Sky Blue_ – NBC 5 Dallas-Fort Worth.htm
+ at  indeces 201900
+
+ at  indeces 201922
+Snippet of first occurence: title year after amber guyger found guilty  botham jean murder 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World _ Britannica.htm
+ at  indeces 7978
+
+ at  indeces 12100
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington - Facts, Presidency & Quotes - Biography.htm
+ at  indeces 8904
+
+ at  indeces 34425
+
+ at  indeces 48580
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+ at  indeces 1073
+
+ at  indeces 1867
+
+ at  indeces 1942
+
+ at  indeces 2951
+
+ at  indeces 3157
+Snippet of first occurence:  cut harder granites schists found  bottom  canyon  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of states and territories of the United States - Wikipedia.htm
+ at  indeces 16935
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Evolution of McDonald’s In Photos - The History of McDonald's.htm
+ at  indeces 48266
+Snippet of first occurence: slide dek    found  birthday gift this year 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/All You Need to Know About The Seven Wonders of The World.htm
+ at  indeces 100231
+
+ at  indeces 100247
+
+ at  indeces 111387
+
+ at  indeces 111403
+Snippet of first occurence: states empires several  walls found  built  early  
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+ at  indeces 6343
+
+ at  indeces 6398
+
+ at  indeces 6403
+
+ at  indeces 6506
+
+ at  indeces 6511
+Snippet of first occurence:  results snize  products found text background color div snize 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Who is the founder of McDonald’s_ - Quora.htm
+ at  indeces 51579
+Snippet of first occurence: normal background look   found website but  thing called 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+ at  indeces 7742
+Snippet of first occurence: here find stories everyday items found  nbsp restaurants did  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Blue or black sky_ _ Causes of Color.htm
+ at  indeces 1476
+Snippet of first occurence: involve scattering   blues found  mandrills tree frogs caterpillars 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government - HISTORY.htm
+ at  indeces 8866
+
+ at  indeces 35493
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/THEN AND NOW_ McDonald's through the years - Business Insider.htm
+ at  indeces 2571
+
+ at  indeces 32192
+
+ at  indeces 42646
+Snippet of first occurence: lives  brooklyn   found    href https 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc - McDonald's, Movie & Family - Biography.htm
+ at  indeces 8967
+
+ at  indeces 24068
+
+ at  indeces 33342
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 157343
+
+ at  indeces 171562
+Snippet of first occurence:  amphibian  fish species found  park   href 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/8 Facts About the Grand Canyon You Never Knew _ National Park Foundation.htm
+ at  indeces 27062
+
+ at  indeces 38413
+
+ at  indeces 38478
+
+ at  indeces 38674
+
+ at  indeces 42658
+Snippet of first occurence: foundation adheres  privacy policy found    href http 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/First President · George Washington's Mount Vernon.htm
+ at  indeces 17482
+Snippet of first occurence: washington added architectural feature generally found  public buildings  mansion 
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Journey to the Seven Wonders _ Travel _ Smithsonian Magazine.htm
+ at  indeces 31845
+
+ at  indeces 33203
+
+ at  indeces 33364
+
+ at  indeces 43789
+
+ at  indeces 44016
+Snippet of first occurence: image  pharos  alexandria found  archaeologists   afghanistan 
+The word "found"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+ at  indeces 9362
+
+ at  indeces 9368
+
+ at  indeces 9467
+
+ at  indeces 9498
+
+ at  indeces 9545
+
+ at  indeces 10245
+Snippet of first occurence: rocks cooled magma melted rock found underground  lava molten rock 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/List of All Countries in the World.htm
+ at  indeces 2886
+
+ at  indeces 3414
+Snippet of first occurence:    cookie  found   invalid default  
+The word "found"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+ at  indeces 32794
+
+ at  indeces 40445
+
+ at  indeces 40896
+
+ at  indeces 59566
+
+ at  indeces 70376
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Colors in the Rainbow_.htm
+ at  indeces 75072
+Snippet of first occurence: links  professional work  found  www kemibe  div 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/ROYGBIV - Wikipedia.htm
+ at  indeces 16874
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+ at  indeces 42805
+
+ at  indeces 43707
+
+ at  indeces 57879
+
+ at  indeces 58106
+Snippet of first occurence:  washington entered philadelphia  found willy nilly  head  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In a Cup — Facts, Figures And Converter.htm
+ at  indeces 826
+Snippet of first occurence:  cup strong span have found craving  dessert thinking  
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/US Fluid Ounces to US Cups conversion.htm
+ at  indeces 6168
+Snippet of first occurence: full terms amp conditions  found   href https www 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Live Science.htm
+ at  indeces 176407
+
+ at  indeces 183394
+
+ at  indeces 193361
+Snippet of first occurence: million year sperm  oldest found div div class  nextup 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/1955 First McDonalds Opened.html
+ at  indeces 5239
+Snippet of first occurence: american history world history  found  historycental history  home 
+The word "found"appears  19 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+ at  indeces 4971
+
+ at  indeces 20511
+
+ at  indeces 22885
+
+ at  indeces 23302
+
+ at  indeces 26506
+
+ at  indeces 27966
+
+ at  indeces 28264
+
+ at  indeces 28357
+
+ at  indeces 29525
+
+ at  indeces 29647
+
+ at  indeces 29759
+
+ at  indeces 30524
+
+ at  indeces 31010
+
+ at  indeces 31492
+
+ at  indeces 31809
+
+ at  indeces 31880
+
+ at  indeces 32079
+
+ at  indeces 32998
+
+ at  indeces 33910
+Snippet of first occurence:  results view uls  found background color fff uls menu 
+The word "found"appears  12 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 2495
+
+ at  indeces 2501
+
+ at  indeces 9152
+
+ at  indeces 9156
+
+ at  indeces 16449
+
+ at  indeces 16787
+
+ at  indeces 19863
+
+ at  indeces 20941
+
+ at  indeces 21158
+
+ at  indeces 21656
+
+ at  indeces 22406
+
+ at  indeces 22606
+Snippet of first occurence: nps gov grca planyourvisit lost found htm span onclick lost amp 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Ever wondered why the sky is blue_ Or why sunsets are red_ - Kids Environment Kids Health - National Institute of Environmental Health Sciences.htm
+ at  indeces 12828
+Snippet of first occurence: anchor    scientists found answers  questions   
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are in a rainbow, and what does each mean_ - Quora.htm
+ at  indeces 82337
+
+ at  indeces 82533
+Snippet of first occurence: colors types  pink  found   rainbow style box 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon _ Facts, Map, Geology, & Videos _ Britannica.htm
+ at  indeces 11100
+
+ at  indeces 16891
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+ at  indeces 225582
+
+ at  indeces 225647
+Snippet of first occurence: callback  concat result  found  return   callback 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+ at  indeces 15765
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/New Seven Wonders of the World.htm
+ at  indeces 21383
+
+ at  indeces 21702
+
+ at  indeces 21995
+
+ at  indeces 22321
+
+ at  indeces 22664
+
+ at  indeces 22928
+
+ at  indeces 23090
+
+ at  indeces 23291
+Snippet of first occurence: desert china   strong found strong    stretching 
+The word "found"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. States_ 50 States and State Capitals _ HISTORY.com - HISTORY.html
+ at  indeces 9025
+
+ at  indeces 32306
+
+ at  indeces 34224
+Snippet of first occurence:  template throw error template found templateid script innerhtml template innerhtml 
+The word "found"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Britannica.htm
+ at  indeces 7871
+Snippet of first occurence: development  language human imagination found   create communicate written 
+The word "found"appears  10 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 6580
+
+ at  indeces 107136
+
+ at  indeces 107262
+
+ at  indeces 107271
+
+ at  indeces 107301
+
+ at  indeces 107305
+
+ at  indeces 107335
+
+ at  indeces 107340
+
+ at  indeces 107349
+
+ at  indeces 108294
+Snippet of first occurence: applicationid  appdefinitionid appdefinitionname get found  google instance instanceid sectionpublished 
+
+======================================Search with stemming ON======================================
+
+because = becaus now
+
+======================================Search with stemming ON======================================
+
+beginning = begin now
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In A Cup_ The Definitive Guide (With Converter) - Heall.htm
+ at  indeces 26867
+Snippet of first occurence: location    path begin  append    
+The word "begin"appears  7 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of Government _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 21145
+
+ at  indeces 21348
+
+ at  indeces 22163
+
+ at  indeces 22932
+
+ at  indeces 23734
+
+ at  indeces 24480
+
+ at  indeces 25330
+Snippet of first occurence: fas  times   begin tabs tabs   menu 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Guide to Law Online_ U.S. States and Territories _ Law Library of Congress _ Library of Congress.html
+ at  indeces 3621
+Snippet of first occurence:  end  content  begin global footer  div  
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces In a Cup_.htm
+ at  indeces 8558
+
+ at  indeces 8824
+
+ at  indeces 10631
+
+ at  indeces 11079
+
+ at  indeces 12045
+Snippet of first occurence: label play outline ion icon begin unit conversions  div class 
+The word "begin"appears  75 times in /Users/ibrahimsuhail/Desktop/corpus/How many colours are there in your rainbow_ _ Lang-8_ For learning foreign languages.htm
+ at  indeces 7669
+
+ at  indeces 7674
+
+ at  indeces 8105
+
+ at  indeces 8125
+
+ at  indeces 8471
+
+ at  indeces 8497
+
+ at  indeces 8523
+
+ at  indeces 8549
+
+ at  indeces 8575
+
+ at  indeces 8610
+
+ at  indeces 8636
+
+ at  indeces 8662
+
+ at  indeces 8688
+
+ at  indeces 8714
+
+ at  indeces 8740
+
+ at  indeces 8766
+
+ at  indeces 8792
+
+ at  indeces 8818
+
+ at  indeces 8844
+
+ at  indeces 8879
+
+ at  indeces 8905
+
+ at  indeces 8931
+
+ at  indeces 8957
+
+ at  indeces 8983
+
+ at  indeces 9009
+
+ at  indeces 9035
+
+ at  indeces 9061
+
+ at  indeces 9087
+
+ at  indeces 9113
+
+ at  indeces 9139
+
+ at  indeces 9165
+
+ at  indeces 9200
+
+ at  indeces 9226
+
+ at  indeces 9252
+
+ at  indeces 9278
+
+ at  indeces 9304
+
+ at  indeces 9330
+
+ at  indeces 9356
+
+ at  indeces 9382
+
+ at  indeces 9408
+
+ at  indeces 9443
+
+ at  indeces 9469
+
+ at  indeces 9495
+
+ at  indeces 9521
+
+ at  indeces 9547
+
+ at  indeces 9573
+
+ at  indeces 9599
+
+ at  indeces 9625
+
+ at  indeces 9651
+
+ at  indeces 9686
+
+ at  indeces 9712
+
+ at  indeces 9738
+
+ at  indeces 9764
+
+ at  indeces 9790
+
+ at  indeces 9816
+
+ at  indeces 9842
+
+ at  indeces 9868
+
+ at  indeces 9894
+
+ at  indeces 9920
+
+ at  indeces 9946
+
+ at  indeces 9981
+
+ at  indeces 10007
+
+ at  indeces 10033
+
+ at  indeces 10059
+
+ at  indeces 10085
+
+ at  indeces 10111
+
+ at  indeces 10137
+
+ at  indeces 10163
+
+ at  indeces 10189
+
+ at  indeces 10215
+
+ at  indeces 10241
+
+ at  indeces 10276
+
+ at  indeces 10302
+
+ at  indeces 10328
+
+ at  indeces 10354
+Snippet of first occurence: location href   args begin null  var args begin 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How McDonald's Beat Its Early Competition and Became an Icon of Fast Food - HISTORY.htm
+ at  indeces 28277
+
+ at  indeces 28476
+Snippet of first occurence: title how did food stamps begin phoenix picture picture class  
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Why is the sky blue and not some other color_ _ WGN-TV.htm
+ at  indeces 30386
+
+ at  indeces 30397
+
+ at  indeces 30425
+
+ at  indeces 38870
+
+ at  indeces 38881
+Snippet of first occurence: barrett supreme court nomination hearings begin  when  amy coney 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Cooking Equivalents and Measures - Science of Food _ Exploratorium.htm
+ at  indeces 8155
+
+ at  indeces 9477
+Snippet of first occurence:  div  div  begin main menu  div class 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many States Are There in the United States_ - WorldAtlas.htm
+ at  indeces 3288
+Snippet of first occurence:  number  countries names begin letter  loading lazy  
+The word "begin"appears  10 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Video_ The Fluid Fingers of Formation.htm
+ at  indeces 4761
+
+ at  indeces 4771
+
+ at  indeces 4963
+
+ at  indeces 4972
+
+ at  indeces 4979
+
+ at  indeces 5026
+
+ at  indeces 5376
+
+ at  indeces 8874
+
+ at  indeces 9473
+
+ at  indeces 11397
+Snippet of first occurence:   top   begin wrapper  div  wrapper 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state - Wikipedia.html
+ at  indeces 42691
+Snippet of first occurence: form  territorial status  begin process  admit puerto rico 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are there in the world_ - Travel Independent . Info.html
+ at  indeces 2413
+Snippet of first occurence: class row   content begin  div class col  
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Colors Of The Rainbow In Order _ Science Trends.htm
+ at  indeces 3993
+
+ at  indeces 4146
+
+ at  indeces 4179
+
+ at  indeces 4217
+
+ at  indeces 4248
+Snippet of first occurence: block media text  rtl begin ignore direction ltr  rtl 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/State Minimum Wage Laws _ U.S. Department of Labor.html
+ at  indeces 39021
+
+ at  indeces 40202
+Snippet of first occurence: class grid row   begin footer second    
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology & Rocks _ Visitor Center.htm
+ at  indeces 30563
+Snippet of first occurence: center rel home class trail begin span itemprop home span  
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/What Are the Original Seven Wonders of the World_ - ABC News.htm
+ at  indeces 81498
+
+ at  indeces 85739
+Snippet of first occurence:   construction  lighthouse begin   rule  ptolemy 
+The word "begin"appears  7 times in /Users/ibrahimsuhail/Desktop/corpus/1st President - 10th President _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 10357
+
+ at  indeces 10537
+
+ at  indeces 11313
+
+ at  indeces 12043
+
+ at  indeces 12814
+
+ at  indeces 13521
+
+ at  indeces 14315
+Snippet of first occurence: fas  times   begin tabs tabs   menu 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Was the Grand Canyon Formed_ - Lesson for Kids - Video & Lesson Transcript _ Study.com.html
+ at  indeces 24044
+Snippet of first occurence: delve  deeply   begin studying   deeper level 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government - UEN.htm
+ at  indeces 4499
+Snippet of first occurence:  span class span  begin constant contact inline form code 
+The word "begin"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/About the United States _ USAGov.htm
+ at  indeces 15397
+
+ at  indeces 15563
+
+ at  indeces 16202
+Snippet of first occurence:   social media feature begin     div 
+The word "begin"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/What McDonald's looked like when it first opened - Business Insider.htm
+ at  indeces 3372
+
+ at  indeces 3508
+
+ at  indeces 3821
+Snippet of first occurence: insertbefore   script  begin amazon tam  script  
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Creating Global Memory _ Home.htm
+ at  indeces 456
+
+ at  indeces 70873
+Snippet of first occurence: cropped icon png   begin exactmetrics    universal 
+The word "begin"appears  18 times in /Users/ibrahimsuhail/Desktop/corpus/The Story of How McDonald’s First Got Its Start _ History _ Smithsonian Magazine.htm
+ at  indeces 750
+
+ at  indeces 1045
+
+ at  indeces 1169
+
+ at  indeces 2429
+
+ at  indeces 2580
+
+ at  indeces 2646
+
+ at  indeces 2712
+
+ at  indeces 2767
+
+ at  indeces 35011
+
+ at  indeces 43815
+
+ at  indeces 59540
+
+ at  indeces 59645
+
+ at  indeces 59733
+
+ at  indeces 59867
+
+ at  indeces 59901
+
+ at  indeces 60000
+
+ at  indeces 60041
+
+ at  indeces 60096
+Snippet of first occurence: smithsonian googima  script  begin  blocker detection  script 
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/The Three Branches of Government - American Government and Politics - Learning Guides at Jefferson Community & Technical College.htm
+ at  indeces 2250
+
+ at  indeces 2328
+
+ at  indeces 4497
+
+ at  indeces 9817
+
+ at  indeces 10130
+Snippet of first occurence:  main content   begin page header  div  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ HowStuffWorks.htm
+ at  indeces 288003
+Snippet of first occurence: sky  equation  moment begin   color from  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/We No Longer Have Three Branches of Government - POLITICO Magazine.htm
+ at  indeces 6339
+Snippet of first occurence:    habit  begin semester  slowly taking students 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Articles of Confederation, US Constitution, Constitution Day Materials, Pocket Constitution Book, Bill of Rights.htm
+ at  indeces 6169
+Snippet of first occurence:    addthis button begin   class href http 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries in the world_ 193_ 197_ 215_.htm
+ at  indeces 35594
+
+ at  indeces 35606
+Snippet of first occurence: mid   time  begin enjoying fruits   labour 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/PolitiFact _ No, the first American president wasn’t a black man named John Hanson.htm
+ at  indeces 21153
+Snippet of first occurence: cmpconfig callbacks ongdprcomplete function  begin code  trigger tag  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Science With Samantha_ Why Is the Sky Blue_ – NBC 5 Dallas-Fort Worth.htm
+ at  indeces 3457
+Snippet of first occurence: roboto italic  font crossorigin begin comscore tag  script  
+The word "begin"appears  8 times in /Users/ibrahimsuhail/Desktop/corpus/Blue Sky_ Waves & Light Science Activity _ Exploratorium Teacher Institute Project.htm
+ at  indeces 15618
+
+ at  indeces 15625
+
+ at  indeces 15648
+
+ at  indeces 15680
+
+ at  indeces 15713
+
+ at  indeces 15747
+
+ at  indeces 18816
+
+ at  indeces 20138
+Snippet of first occurence: href https www exploratorium arts begin title class  depth  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Geology of the Grand Canyon.htm
+ at  indeces 3247
+Snippet of first occurence:   the rocky mountains begin  form   million 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Three Branches of Government.htm
+ at  indeces 4571
+Snippet of first occurence:  div   content begin  div div  content 
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Ounces in A... Cup, Gallon, Pint, Liter — Tiger Fitness.html
+ at  indeces 36208
+
+ at  indeces 36309
+
+ at  indeces 36318
+
+ at  indeces 36648
+
+ at  indeces 36658
+Snippet of first occurence: tigerfitness  script   begin criteo onetag  script async 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/New 7 Wonders of The World _ TravelChannel.com _ Travel Channel.html
+ at  indeces 36027
+
+ at  indeces 36117
+Snippet of first occurence: script sailthru init customerid script begin qualtrics site intercept  script 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History _ McDonald's.htm
+ at  indeces 3679
+Snippet of first occurence:  success led brothers  begin franchising concept operating restaurants  
+The word "begin"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/THEN AND NOW_ McDonald's through the years - Business Insider.htm
+ at  indeces 3381
+
+ at  indeces 3517
+
+ at  indeces 3836
+Snippet of first occurence: insertbefore   script  begin amazon tam  script  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Ray Kroc - McDonald's, Movie & Family - Biography.htm
+ at  indeces 23824
+Snippet of first occurence: ambulance driver lying age  begin serving   during training 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon_ Location, Formation & Facts _ Live Science.htm
+ at  indeces 599
+
+ at  indeces 169266
+Snippet of first occurence:  urlsearchparams hostname urlsearchparams  begin  choice tag   
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/8 Facts About the Grand Canyon You Never Knew _ National Park Foundation.htm
+ at  indeces 38031
+Snippet of first occurence: years ago majority  canyon begin  shape recently   
+The word "begin"appears  19 times in /Users/ibrahimsuhail/Desktop/corpus/Journey to the Seven Wonders _ Travel _ Smithsonian Magazine.htm
+ at  indeces 465
+
+ at  indeces 694
+
+ at  indeces 812
+
+ at  indeces 1876
+
+ at  indeces 2009
+
+ at  indeces 2069
+
+ at  indeces 2135
+
+ at  indeces 2190
+
+ at  indeces 25882
+
+ at  indeces 33483
+
+ at  indeces 44247
+
+ at  indeces 47726
+
+ at  indeces 47831
+
+ at  indeces 47907
+
+ at  indeces 48041
+
+ at  indeces 48069
+
+ at  indeces 48162
+
+ at  indeces 48197
+
+ at  indeces 48252
+Snippet of first occurence: smithsonian googima  script  begin  blocker detection  script 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon Geology.htm
+ at  indeces 8055
+Snippet of first occurence: end mobile menu   begin warnings  end warnings  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Can You Name the New Seven Wonders of the World_ _ Travel and Exploration _ Discovery.htm
+ at  indeces 40557
+Snippet of first occurence: width height iframe discovery  begin qualtrics website feedback snippet  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/List of All Countries in the World.htm
+ at  indeces 2501
+Snippet of first occurence: pubads collapseemptydivs    begin step   load uam 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/White House History.htm
+ at  indeces 1199
+
+ at  indeces 1720
+Snippet of first occurence:  valign top align left begin content section table cellpadding  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/History of McDonald's_ Timeline and Facts - TheStreet.htm
+ at  indeces 59273
+Snippet of first occurence: model kroc bought rights  begin franchising mcdonald  restaurants nationwide 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Age of the Grand Canyon _ How Old is the Grand Canyon.htm
+ at  indeces 2367
+Snippet of first occurence:  seemingly stubborn rocks  begin  grasp age  canyon 
+The word "begin"appears  5 times in /Users/ibrahimsuhail/Desktop/corpus/Weighty matters_ How many ounces does your cup hold_ - Chicago Tribune.htm
+ at  indeces 765
+
+ at  indeces 173895
+
+ at  indeces 174099
+
+ at  indeces 175486
+
+ at  indeces 180854
+Snippet of first occurence:  measuring let   begin  common predicament   
+The word "begin"appears  17 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+ at  indeces 577
+
+ at  indeces 806
+
+ at  indeces 925
+
+ at  indeces 2116
+
+ at  indeces 2249
+
+ at  indeces 2309
+
+ at  indeces 2375
+
+ at  indeces 2430
+
+ at  indeces 34489
+
+ at  indeces 60705
+
+ at  indeces 60810
+
+ at  indeces 60886
+
+ at  indeces 61020
+
+ at  indeces 61048
+
+ at  indeces 61141
+
+ at  indeces 61176
+
+ at  indeces 61231
+Snippet of first occurence: smithsonian googima  script  begin  blocker detection  script 
+The word "begin"appears  27 times in /Users/ibrahimsuhail/Desktop/corpus/Unemployment Rates for States.htm
+ at  indeces 39
+
+ at  indeces 798
+
+ at  indeces 802
+
+ at  indeces 810
+
+ at  indeces 1097
+
+ at  indeces 1390
+
+ at  indeces 1609
+
+ at  indeces 2268
+
+ at  indeces 3491
+
+ at  indeces 3977
+
+ at  indeces 4372
+
+ at  indeces 4812
+
+ at  indeces 5142
+
+ at  indeces 5157
+
+ at  indeces 5185
+
+ at  indeces 5205
+
+ at  indeces 5535
+
+ at  indeces 5562
+
+ at  indeces 5604
+
+ at  indeces 6091
+
+ at  indeces 6132
+
+ at  indeces 8870
+
+ at  indeces 8876
+
+ at  indeces 9028
+
+ at  indeces 9058
+
+ at  indeces 9373
+
+ at  indeces 9463
+Snippet of first occurence: unemployment rates states title  begin meta tags  start include 
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Why Is the Sky Blue_ _ Live Science.htm
+ at  indeces 616
+
+ at  indeces 191438
+Snippet of first occurence:  urlsearchparams hostname urlsearchparams  begin  choice tag   
+The word "begin"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/Grand Canyon - Wikipedia.htm
+ at  indeces 42177
+
+ at  indeces 42206
+Snippet of first occurence: http hewit unco dohist puebloan begin htm getting started   
+The word "begin"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of the U.S. Government _ USAGov.html
+ at  indeces 27331
+
+ at  indeces 27607
+
+ at  indeces 28256
+Snippet of first occurence:   social media feature begin     div 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Geology - Grand Canyon National Park (U.S. National Park Service).html
+ at  indeces 757
+Snippet of first occurence: nature grca geology htm  begin google analytics denali specific  
+The word "begin"appears  3 times in /Users/ibrahimsuhail/Desktop/corpus/Presidents, Vice Presidents, and First Ladies of the United States _ USAGov.htm
+ at  indeces 19571
+
+ at  indeces 19846
+
+ at  indeces 20510
+Snippet of first occurence:   social media feature begin     div 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/The Three Branches of Government _ GW Political Management Program.htm
+ at  indeces 8749
+Snippet of first occurence: offset top   script begin liveperson monitor  script type 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Chronological List of Presidents, First Ladies, and Vice Presidents of the United States - Guides, Reference Aids, and Finding Aids (Prints andPhotographs Reading Room, Library of Congress).htm
+ at  indeces 840
+Snippet of first occurence:   colspan   begin content table   content 
+The word "begin"appears  6 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of Government - American National Government - LibGuides at University of Toledo Libraries.htm
+ at  indeces 1761
+
+ at  indeces 1828
+
+ at  indeces 2313
+
+ at  indeces 4327
+
+ at  indeces 4704
+
+ at  indeces 4713
+Snippet of first occurence: skip  main content  begin page header  div  
+The word "begin"appears  12 times in /Users/ibrahimsuhail/Desktop/corpus/See How All 50 States Are Reopening (and Closing Again) - The New York Times.htm
+ at  indeces 28919
+
+ at  indeces 71774
+
+ at  indeces 85959
+
+ at  indeces 171069
+
+ at  indeces 178312
+
+ at  indeces 188414
+
+ at  indeces 209807
+
+ at  indeces 210045
+
+ at  indeces 212995
+
+ at  indeces 216948
+
+ at  indeces 218011
+
+ at  indeces 218758
+Snippet of first occurence: polis  democratic governors  begin reopening state letting colorado  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/What are the Three Branches of Government_ _ The Judicial Learning Center.htm
+ at  indeces 5960
+Snippet of first occurence: directions strong click start  begin student challenge determine part  
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/McDonald’s _ History & Facts _ Britannica.htm
+ at  indeces 19998
+Snippet of first occurence: restaurant concept kroc offered  begin  span  span franchise 
+The word "begin"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 106691
+Snippet of first occurence: success draft duplicated messages download begin shortly download starting  tap 
+
+======================================Search with stemming ON======================================
+
+bounded = bound now
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Branches of Government _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 14137
+Snippet of first occurence: ubermenu items align left ubermenu bound ubermenu disable submenu scroll ubermenu 
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Why is thesky blue_.htm
+ at  indeces 1398
+Snippet of first occurence: dependence extent  coupling frequencies bound electrons atoms oscillating electric field 
+The word "bound"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state - Wikipedia.html
+ at  indeces 28339
+
+ at  indeces 38547
+Snippet of first occurence: political entity    bound    href https 
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How many colors are really in a rainbow_ _ ScienceBlogs.htm
+ at  indeces 10624
+Snippet of first occurence:     upper bound  pointed human receptors nontrivial 
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/U.S. state.html
+ at  indeces 1556
+Snippet of first occurence: authority admission  states  bound  follow procedure   
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/1st President - 10th President _ U.S. Embassy & Consulate in the Republic of Korea.html
+ at  indeces 3507
+Snippet of first occurence: ubermenu items align left ubermenu bound ubermenu disable submenu scroll ubermenu 
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/We No Longer Have Three Branches of Government - POLITICO Magazine.htm
+ at  indeces 7300
+Snippet of first occurence: court   neutral constitution bound arbiter    facto 
+The word "bound"appears  4 times in /Users/ibrahimsuhail/Desktop/corpus/What Is the Rainbow Color Order_ Understanding ROYGBIV.htm
+ at  indeces 4516
+
+ at  indeces 9114
+
+ at  indeces 13742
+
+ at  indeces 18341
+Snippet of first occurence: date picker pika single  bound position absolute box shadow  
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/Blue Sky_ Waves & Light Science Activity _ Exploratorium Teacher Institute Project.htm
+ at  indeces 22037
+Snippet of first occurence: height    electrons bound  molecules  air pushed 
+The word "bound"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington - Facts, Presidency & Quotes - Biography.htm
+ at  indeces 27140
+
+ at  indeces 39875
+Snippet of first occurence: billion people  earth  bound   doppelg nger historical 
+The word "bound"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/George Washington_ The Reluctant President _ History _ Smithsonian Magazine.htm
+ at  indeces 44607
+
+ at  indeces 45042
+Snippet of first occurence:  providing  thick bible bound  deep brown leather set 
+The word "bound"appears  2 times in /Users/ibrahimsuhail/Desktop/corpus/How many countries are in the world_.htm
+ at  indeces 2308
+
+ at  indeces 2500
+Snippet of first occurence:  hierarchy abbr iana abbr bound  rules   href 
+The word "bound"appears  1 times in /Users/ibrahimsuhail/Desktop/corpus/How Many Countries are there in the World_ _ Political Holidays.htm
+ at  indeces 6262
+Snippet of first occurence: streams description don   bound  amount  total number 
